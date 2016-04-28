@@ -1,0 +1,14 @@
+{
+  "name": "selenium-grid-playground",
+  "version": "1.0.0",
+  "description": "Set of basic checks to ensure that Selenium Grid is configured and working",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Harvey",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^2.53.1"
+  }
+}
