@@ -7,10 +7,20 @@ This repo helps you confirm that a Selenium Grid setup is working, at a very bas
 3. Run the tests
 
 ## Running the Tests
+
+### Chrome
 ```
 node test-chrome.js
+```
 
+### Firefox
+```
 node test-firefox.js
+```
+
+### Internet Explorer
+```
+node test-internet-explorer.js
 ```
 
 ## Licence
